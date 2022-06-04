@@ -1,0 +1,3 @@
+      
+      public class sachin{
+          int i=20;
