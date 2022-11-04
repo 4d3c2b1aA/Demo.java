@@ -1,3 +1,2 @@
      
-     public class rohit{
-              int i=10;
+ 
